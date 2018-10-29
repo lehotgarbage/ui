@@ -1,7 +1,7 @@
 $( document ).ready(function() {
 	"use strict";
 	
-$( "head" ).prepend( "<link rel='stylesheet' type='text/css' href='css/overlayStyle.css'/>"); 
+$( "head" ).prepend( "<link rel='stylesheet' type='text/css' href='https://cdn.jsdelivr.net/gh/lehotgarbage/ui@ca012244a0172b0a73b2169be3579e44f61fc706/css/overlayStyle.css'/>"); 
 	
 	// css link in <head>
 	
