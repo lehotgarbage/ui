@@ -11,7 +11,7 @@ $( "body" ).prepend( "<div class='overlayContainer'></div>" );
 	
 $( ".overlayContainer" ).prepend( "<button class='triggerContainer'></button>" );
 	
-$( ".overlayContainer" ).prepend( "<button class='menuContainer fade-out'></button>" );
+$( ".overlayContainer" ).prepend( "<div class='menuContainer fade-out'></div>" );
 	
 $( ".menuContainer" ).prepend( "<button class='uiButton1 button-out'></div>" );
 $( ".menuContainer" ).prepend( "<button class='uiButton2 button-out'></div>" );
@@ -22,6 +22,7 @@ $( ".menuContainer" ).prepend( "<div class='paneContainer2 pane-out'></div>" );
 $( ".menuContainer" ).prepend( "<div class='paneContainer3 pane-out'></div>" );
 	
 	});
+
 
 $(document).ready(function(){
 	"use strict";
